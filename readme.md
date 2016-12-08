@@ -6,14 +6,18 @@ This is a personal project made in Go to generate the basic folders of a web pro
     <li>
         Project folder
         <ul>
-            <li>Public folder</li>
-            <li>CSS folder</li>
-            <li>Images folder</li>
-            <li>Javascript folder</li>
             <li>
-                Less folder
+                Public folder
                 <ul>
-                    <li>Less files</li>
+                    <li>CSS folder</li>
+                    <li>Images folder</li>
+                    <li>Javascript folder</li>
+                    <li>
+                        Less folder
+                        <ul>
+                            <li>Less files</li>
+                        </ul>
+                    </li>
                 </ul>
             </li>
         </ul>
