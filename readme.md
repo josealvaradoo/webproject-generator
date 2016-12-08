@@ -29,7 +29,7 @@ You need to have Go on your PATH.
 
 ### #Run the application
 
-To ron the application *(Testing)*, you have to write on console
+To run the application *(Testing)*, you have to write on console
 
 `go run main.go`
 
